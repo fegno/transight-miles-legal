@@ -20,5 +20,5 @@ Both URLs must be public, so host the site (GitHub Pages: Settings → Pages →
 ## Edit
 
 Edit the HTML files directly; styles are in `style.css`. Keep the effective date and the contact
-email (`support@transightmiles.com`) in sync with the app (`src/app/profile/delete-account.tsx`).
+email (`support@transight.com`) in sync with the app (`src/app/profile/delete-account.tsx`).
 The text is a draft based on what the app does; have it reviewed by legal before publishing.
